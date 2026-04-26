@@ -1,10 +1,11 @@
-
-# week04-lab
-
 # MIT212 - Programming Techniques – Week 04 Lab Test
 
 ## Overview
 This repository contains the week 04 lab test for MIT212 - Programming Techniques.
+
+## Repository Information
+- **Language:** Python (100%)
+- **Repository ID:** 1221471807
 
 ## Files Included
 - **hello.py** - Initial Python program with greeting messages (Version 1 and Version 2)
@@ -53,13 +54,15 @@ python calculator.py
 ✅ Part 5: Collaboration (Clone)  
 
 ## Authors
-2512091017 K.P.G.R.W. Senarathna
-2512091021 - Geeshani Herath
-2512091021 - Thiruni
-2512091035 - Chamil
-2512091039 - Sahan
-2512091058 - Lashan
+
+| ID | Name |
+|---|---|
+| 2512091017 | K.P.G.R.W. Senarathna |
+| 2512091021 | Geeshani Herath |
+| 2512091021 | Thiruni |
+| 2512091035 | Chamil |
+| 2512091039 | Sahan |
+| 2512091058 | Lashan |
 
 ## License
 MIT
-
