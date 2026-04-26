@@ -57,7 +57,7 @@ python calculator.py
 
 2512091017 K.P.G.R.W. Senarathna
 2512091021 - Geeshani Herath
-2512091021 - Thiruni
+2512091024 - Thiruni
 2512091035 - Chamil Pathirana
 2512091039 - Sahan
 2512091058 - Lashan
