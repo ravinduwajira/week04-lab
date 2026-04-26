@@ -35,8 +35,8 @@ python calculator.py
 ✅ Task 9: View History  
 ✅ Part 5: Collaboration (Clone)  
 
-## Author
-Ravindu Wajira
+## Authors
+2512091017 K.P.G.R.W. Senarathna
 
 ## License
 MIT
